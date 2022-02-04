@@ -1,3 +1,3 @@
 # SQL-table_insert
 
-<img src = "image.png" />
+<img height = 500px src = "image.png" />
