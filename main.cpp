@@ -115,6 +115,7 @@ string uppercase(string check){
     if( check [i] >= 97 && check [i] <=122){
       check[i] -= 32;
     } 
-    return check;
+    
   }
+   return check;
 }
